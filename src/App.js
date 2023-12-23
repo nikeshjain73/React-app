@@ -46,9 +46,7 @@ function App() {
       document.body.style.backgroundColor="white"
       showAlert("Dark Mode Closed","danger")
       document.title = "First React App"
-
-
-
+      
     }
 
   }
